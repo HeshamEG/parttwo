@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "328720796817",
+    "firebase_url": "https://partone-4143d.firebaseio.com",
+    "project_id": "partone-4143d",
+    "storage_bucket": "partone-4143d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328720796817:android:a488a0ee9c285a96",
+        "android_client_info": {
+          "package_name": "com.partOne.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328720796817-v8111bb917gl6ai5566aihnb546pmgon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKPaMRfFl34YYbs8VOKpOTNhGfjZTsYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
